@@ -16,3 +16,6 @@ La tabla de verdad para lograr aquel 2-bit adder es la siguiente:
 | A | B | S | Carry Over |
 |:--|:-:|:-:|-----------:|
 | 0 | 0 | 0 | 0          |
+| 0 | 1 | 1 | 0          |
+| 1 | 0 | 1 | 0          |
+| 1 | 1 | 0 | 1          |
